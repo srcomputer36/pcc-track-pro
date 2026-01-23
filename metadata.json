@@ -1,0 +1,8 @@
+{
+  "name": "PCC Track Pro",
+  "description": "Premium Passport & PCC Delivery Tracking Dashboard",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
